@@ -12,6 +12,7 @@ Welcome to Wfrt Deom's documentation!
 
    api
    markdown
+   mathmd
 
 
 
