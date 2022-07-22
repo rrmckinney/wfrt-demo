@@ -46,6 +46,7 @@ inline_highlight_literals = False
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
+mathjax_path="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
 # The root document.
 root_doc = 'index'
 
