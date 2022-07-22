@@ -13,6 +13,7 @@ Welcome to Wfrt Deom's documentation!
    api
    markdown
    mathmd
+   My Book <mybook.ipynb>
 
 
 
