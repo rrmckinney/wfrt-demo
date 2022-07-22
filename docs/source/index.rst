@@ -11,6 +11,7 @@ Welcome to Wfrt Deom's documentation!
    :caption: Contents:
 
    api
+   markdown
 
 
 
